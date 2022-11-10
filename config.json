@@ -1,0 +1,56 @@
+{
+  "name": "Gabriel Loures",
+  "job":"Front-End Developer",
+  "github": "GabrielLoures",
+  "playlists": {
+    "jogos": [
+      {
+        "title": "SK Gaming - The Dream with English CC",
+        "url": "https://www.youtube.com/watch?v=ovtpt9Wpfmo",
+        "thumb": "https://img.youtube.com/vi/ovtpt9Wpfmo/hqdefault.jpg"
+      },
+      {
+        "title": "Rap do FalleN (MMAK)",
+        "url": "https://www.youtube.com/watch?v=MaPvbLdlf4I",
+        "thumb": "https://img.youtube.com/vi/MaPvbLdlf4I/hqdefault.jpg"
+      },
+      {
+        "title": "CS:GO - BEST PLAYS OF IEM RIO MAJOR 2022 - LEGENDS STAGE!",
+        "url": "https://www.youtube.com/watch?v=EgA8ZIiIj7w",
+        "thumb": "https://img.youtube.com/vi/EgA8ZIiIj7w/hqdefault.jpg"
+      },
+      {
+        "title": "Behind The Game S3 EP. 5 | FURIA x BIG | CLASSIFICAÇÃO PARA O CHAMPIONS STAGE",
+        "url": "https://www.youtube.com/watch?v=CDB28E7I8_4",
+        "thumb": "https://img.youtube.com/vi/CDB28E7I8_4/hqdefault.jpg"
+      },
+      {
+        "title": "Behind The Game S3 EP. 4 | PRIMEIRO DIA DE LEGENDS STAGE | EMOÇÃO E RESILIÊNCIA",
+        "url": "https://www.youtube.com/watch?v=82fsaw9j9fk",
+        "thumb": "https://img.youtube.com/vi/82fsaw9j9fk/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Curso de React Para Completos Iniciantes",
+        "url": "https://www.youtube.com/watch?v=ErjWNvP6mko",
+        "thumb": "https://img.youtube.com/vi/ErjWNvP6mko/hqdefault.jpg"
+      },
+      {
+        "title": "React JS // Dicionário do Programador",
+        "url": "https://www.youtube.com/watch?v=NhUr8cwDiiM",
+        "thumb": "https://img.youtube.com/vi/NhUr8cwDiiM/hqdefault.jpg"
+      },
+      {
+        "title": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta",
+        "url": "https://www.youtube.com/watch?v=4BxrxiMMjcA",
+        "thumb": "https://img.youtube.com/vi/4BxrxiMMjcA/hqdefault.jpg"
+      },
+      {
+        "title": "ReactJS para Iniciantes: Tutorial Completo",
+        "url": "https://www.youtube.com/watch?v=2Zhig2aAKFI",
+        "thumb": "https://img.youtube.com/vi/2Zhig2aAKFI/hqdefault.jpg"
+      }
+    ]
+  }
+}
